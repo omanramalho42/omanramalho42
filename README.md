@@ -2,17 +2,14 @@ I'm a 22 years old developer since I was 20. I love to code and figure it out ho
 
 I am also a student at 42 | Rio, a Software Engineering school that have 47 campus in 26 countries.
 
-🌍 I'm based in Rio de Janeiro, Brazil
-✉️ You can contact me at guilhermomasid@gmail.com
-🚀 I'm currently working on Result Sistemas
-🧠 I'm learning Advanced Javascript, Rust and C programming language
+🌍 I'm based in Fortaleza, Brazil
+✉️ You can contact me at omanpple42@hotmail.com
+🚀 I'm currently working on FULLSTACK
+🧠 I'm learning Advanced Javascript, React and Node programming language
 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
-⚡ I love sports and my favorite is Crossfit
+⚡ I love sports and my favorite is Surf
 
 
 Skills
-Javascript Typescript C Rust HTML5 React NextJs Svelte TailwindCSS Material UI Redux Webpack NodeJS Express GraphQL MongoDB PostgreSQL Heroku
-
-
-Socials
+Javascript Typescript HTML5 React NextJs TailwindCSS Material UI Redux Webpack NodeJS Express MongoDB
     
