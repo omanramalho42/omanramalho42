@@ -12,15 +12,7 @@ I am also a student at 42 | Rio, a Software Engineering school that have 47 camp
 
 Skills
 Javascript Typescript C Rust HTML5 React NextJs Svelte TailwindCSS Material UI Redux Webpack NodeJS Express GraphQL MongoDB PostgreSQL Heroku
-https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg
-https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg
-https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg
-https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg
-https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
-https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg
-https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg
-https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg
-https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
+
 
 Socials
     
